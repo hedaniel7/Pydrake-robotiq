@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /Pydrake-robotiq140/catkin_ws/install/setup.sh

@@ -1,3 +1,5 @@
 catkin_ws/build/
 catkin_ws/devel/
 .venv
+.ipynb_checkpoints
+.idea

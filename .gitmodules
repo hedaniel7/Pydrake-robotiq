@@ -1,3 +1,7 @@
 [submodule "catkin_ws/src/robotiq"]
 	path = catkin_ws/src/robotiq
 	url = https://github.com/hedaniel7/robotiq.git
+[submodule "kinova-movo"]
+	path = kinova-movo
+	url = https://github.com/RussTedrake/kinova-movo.git
+	branch = movo_description_drake

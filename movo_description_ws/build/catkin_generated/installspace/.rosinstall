@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /Pydrake-robotiq140/movo_description_ws/install/setup.sh

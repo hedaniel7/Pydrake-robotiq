@@ -1,0 +1,2 @@
+movo_description
+-DCATKIN_DEVEL_PREFIX=/Pydrake-robotiq140/movo_description_ws/devel -DCMAKE_INSTALL_PREFIX=/Pydrake-robotiq140/movo_description_ws/install -G Unix Makefiles

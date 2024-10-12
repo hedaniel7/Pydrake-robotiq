@@ -1,4 +1,4 @@
-# Pydrake-robotiq140
+# Pydrake-robotiq
 
 ### Conversion of robotiq_arg2f_140_model.xacro to robotiq_arg2f_140_model.urdf
 

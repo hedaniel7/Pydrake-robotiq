@@ -95,7 +95,8 @@
     <child link="hande_right_finger"/>
     <axis xyz="0 -1 0"/>
     <limit effort="130" lower="0" upper="0.025" velocity="0.15"/>
-    <mimic joint="hande_left_finger_joint" multiplier="1" offset="0"/>
+    <!-- Mimic tag removed -->
+    <!-- <mimic joint="hande_left_finger_joint" multiplier="1" offset="0"/> -->
   </joint>
   <link name="hande_right_finger">
     <inertial>
